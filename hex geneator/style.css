@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#color{
+    height: 100vh;
+    background-color: black;
+    
+}
+#pack{
+    position: absolute;
+    top:45%;
+    left:44%;
+}
+#details{
+    color: white;
+    text-align: center;
+}
+#click{
+    padding:10px 0px;
+}
+#click:hover{
+    background-color: green;
+    color:white;
+    
+}
+#hax{
+    color:white;
+    position: absolute;
+    top:40%;
+    left: 40%;
+}
+#hax #set{
+    padding:10px;
+    background-color: yellow;
+    color: red;
+}
